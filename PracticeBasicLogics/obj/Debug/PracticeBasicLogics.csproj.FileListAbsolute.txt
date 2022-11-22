@@ -1,0 +1,8 @@
+C:\Users\chowd\source\repos\PracticeBasicLogics\PracticeBasicLogics\bin\Debug\PracticeBasicLogics.exe.config
+C:\Users\chowd\source\repos\PracticeBasicLogics\PracticeBasicLogics\bin\Debug\PracticeBasicLogics.exe
+C:\Users\chowd\source\repos\PracticeBasicLogics\PracticeBasicLogics\bin\Debug\PracticeBasicLogics.pdb
+C:\Users\chowd\source\repos\PracticeBasicLogics\PracticeBasicLogics\obj\Debug\PracticeBasicLogics.csproj.AssemblyReference.cache
+C:\Users\chowd\source\repos\PracticeBasicLogics\PracticeBasicLogics\obj\Debug\PracticeBasicLogics.csproj.SuggestedBindingRedirects.cache
+C:\Users\chowd\source\repos\PracticeBasicLogics\PracticeBasicLogics\obj\Debug\PracticeBasicLogics.csproj.CoreCompileInputs.cache
+C:\Users\chowd\source\repos\PracticeBasicLogics\PracticeBasicLogics\obj\Debug\PracticeBasicLogics.exe
+C:\Users\chowd\source\repos\PracticeBasicLogics\PracticeBasicLogics\obj\Debug\PracticeBasicLogics.pdb
